@@ -84,5 +84,5 @@ Use of the data for non-commercial research purposes is permitted with appropria
 ## 📬 Contact
 
 For questions or collaboration, please contact:  
-**Daikaku Kato** (Waseda University)  
+**KATO Daikaku** (Waseda University)  
 📧 daikaku.kato@waseda.jp
