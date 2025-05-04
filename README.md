@@ -52,7 +52,7 @@ DOI: [10.5281/zenodo.15334972](https://doi.org/10.5281/zenodo.15334972)
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.15334972},
   url          = {https://doi.org/10.5281/zenodo.15334972}
-}
+}```
 
 ---
 
