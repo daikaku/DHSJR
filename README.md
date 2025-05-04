@@ -6,15 +6,10 @@
 
 ## 📘 Overview
 
-**DHSJR** is a research database of Chinese characters (漢字) and their historical Sino-Japanese readings (漢字音) across a wide range of sources from the Heian and Kamakura periods to the present. It includes various phonetic annotations such as:
+**DHSJR** is a research database of *kanji-on* (Sino-Japanese readings) drawn from a wide range of historical sources, ranging from the Heian and Kamakura periods to the present.
 
-- Kana glosses（仮名注）
-- Tone marks（声点）
-- Fanqie spellings（反切）
-- Similar sound notes（類音注）
-- Fushi-hakase notations（節博士）
-
-The database facilitates diachronic phonological analysis, especially in the study of kan-on, go-on, and accent systems.
+It provides structured phonetic annotation data—including *kana glosses*, *tone marks*, *fanqie*, *similar sound notes*, and *hakase-fu*—notated in diverse historical formats.  
+These data support diachronic phonological analysis, including *go-on*, *kan-on*, and pitch accent systems.
 
 ---
 
@@ -29,10 +24,12 @@ The database facilitates diachronic phonological analysis, especially in the stu
 
 This repository contains:
 - Core datasets with phonetic annotations from historical sources
-- Supplementary data for accent and tonal marks
-- Supplementary phonetic annotation data (kana glosses, tone marks, fanqie, hakase-fu)
-
-- Scripts for data extraction and visualization
+- Supplementary phonetic annotation data, including:
+  - Kana glosses（仮名注）
+  - Tone marks（声点）
+  - Fanqie spellings（反切）
+  - Similar sound notes（類音注）
+  - Fushi-hakase notations（節博士）
 
 ---
 
