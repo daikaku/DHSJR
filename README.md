@@ -74,11 +74,13 @@ Use of the data for non-commercial research purposes is permitted with appropria
 - SAKAMIZU Takashi (Hiroshima University of Economics)  
 - SASAKI Isamu (Hiroshima University)  
 - SUZUKI Yuya (Ibaraki University)  
-- TAKADA Tomokazu (NINJAL)  
+- TAKADA Tomokazu (National Institute for Japanese Language and Linguistics)  
 - NAKAZAWA Nobuyuki (Yamagata University)  
 - MORIOKA Tomohiko (National Institute of Japanese Literature)  
 - HIZUME Shuji (University of Tokyo)
 - Guanwei LIU (Kyoto University)
+- Munho JUNG (JSPS Postdoctoral Fellowship for Overseas Researchers) 
+
 ---
 
 ## 📬 Contact
