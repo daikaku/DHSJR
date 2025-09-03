@@ -71,7 +71,7 @@ Use of the data for non-commercial research purposes is permitted with appropria
 - KATO Daikaku (Waseda University)  
 - SAKAMIZU Takashi (Hiroshima University of Economics)  
 - SASAKI Isamu (Hiroshima University)  
-- SUZUKI Yuya (Ibaraki University)  
+- SUZUKI Yuya (Shinshu University)  
 - TAKADA Tomokazu (National Institute for Japanese Language and Linguistics)  
 - NAKAZAWA Nobuyuki (Yamagata University)  
 - MORIOKA Tomohiko (National Institute of Japanese Literature)  
