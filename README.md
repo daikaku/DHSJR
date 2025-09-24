@@ -77,7 +77,7 @@ Use of the data for non-commercial research purposes is permitted with appropria
 - MORIOKA Tomohiko (National Institute of Japanese Literature)  
 - HIZUME Shuji (University of Tokyo)
 - Guanwei LIU (Kyoto University)
-- Munho JUNG (JSPS Postdoctoral Fellowship for Overseas Researchers) 
+- Munho JUNG (Kyoto University of Advanced Science) 
 
 ---
 
