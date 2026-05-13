@@ -1,6 +1,7 @@
 # DHSJR: Database of Historical Sino-Japanese Readings
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15334972.svg)](https://doi.org/10.5281/zenodo.15334972)
+- Latest update: 2026.5.13
+- Includes 74 documents and 387,265 total characters.
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15334972.svg)](https://doi.org/10.5281/zenodo.15334972)
 
 ---
 
@@ -76,7 +77,7 @@ Use of the data for non-commercial research purposes is permitted with appropria
 - NAKAZAWA Nobuyuki (Yamagata University)  
 - MORIOKA Tomohiko (National Institute of Japanese Literature)  
 - HIZUME Shuji (University of Tokyo)
-- Guanwei LIU (Kyoto University)
+- Guanwei LIU (Shujitsu University)
 - Munho JUNG (Kyoto University of Advanced Science) 
 
 ---
