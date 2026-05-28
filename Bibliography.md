@@ -675,7 +675,7 @@
 ## 原本所蔵
 - 早稲田大学図書館
 ## 影印・複製・電子画像情報
-- [早稲田大学図書館蔵『尾張国郡司百姓等解文』](https://www.wul.waseda.ac.jp/kotenseki/html/bunko12/bunko12_00001/index.html)
+- [早稲田大学図書館蔵『尾張国郡司百姓等解文』](https://archive.waseda.jp/archive/iiif-viewer/uv?manifest=https://iiif.archive.waseda.jp/iiif/manifest/ktnsk/bunko12_00001/manifest.json#cv=0)
 ## 入力凡例
 - 出現位置は、行数で示した。この文献は巻子本である。
 - 漢語欄には、当該語に続く助詞・助動詞・サ変動詞等も記入した。
