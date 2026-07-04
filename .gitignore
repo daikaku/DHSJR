@@ -1,2 +1,6 @@
 .DS_Store
 data/.DS_Store
+.gitignore
+data_backup_before_idc_ucs_20260701_113638/
+tmp/
+
